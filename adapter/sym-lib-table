@@ -1,3 +1,5 @@
 (sym_lib_table
+  (version 7)
   (lib (name "promicro")(type "Legacy")(uri "${KIPRJMOD}/../promicro.lib")(options "")(descr ""))
+  (lib (name "200AWMSP2T2A1M6RE")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty/200AWMSP2T2A1M6RE.kicad_sym")(options "")(descr "switch"))
 )
